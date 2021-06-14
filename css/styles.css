@@ -1,0 +1,26 @@
+body{
+  text-align:center;
+  background-color:#DEEDF0;
+  color:black;
+}
+.marginLeft{
+  margin-left:auto;
+}
+.navbar{
+  margin-bottom:50px;
+}
+.btn{
+  margin:5px;
+}
+
+.bar{
+  display:inline-block;
+  background-color:#4AA96C;
+  height:200px;
+  width:30px;
+  margin-left:10px;
+}
+
+/* button input{
+  display:block;   //wrap it in media query
+} */
